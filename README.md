@@ -381,10 +381,9 @@ Closes #42
 
 ## 👨‍💻 Author
 
-**Your Name** - [@yourhandle](https://twitter.com/yourhandle)
+**Your Name** - [@bagatata05](https://x.com/bagatata05)
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- GitHub: [@bagatata05](https://github.com/bagatata05)
 
 ## 🙏 Acknowledgments
 
