@@ -381,7 +381,7 @@ Closes #42
 
 ## 👨‍💻 Author
 
-**Your Name** - [@bagatata05](https://x.com/bagatata05)
+**Naphier** - [@bagatata05](https://x.com/bagatata05)
 
 - GitHub: [@bagatata05](https://github.com/bagatata05)
 
